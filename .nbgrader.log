@@ -1,0 +1,1264 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://6fb25eade247:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.111) 0.54ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (73.145.170.32) 0.46ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.170.32) 5.39ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.170.32) 1.00ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | INFO] New terminal with automatic name: 1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.170.32) 0.95ms referer=https://instructorgmvozbye.coursera-apps.org/terminals/1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.170.32) 1.00ms referer=https://instructorgmvozbye.coursera-apps.org/terminals/1
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://025a8e1e0a71:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.88) 0.54ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.48ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.01ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.55ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | INFO] Uploading file to /resources/datasets/mpg.csv
+[NotebookApp | INFO] 302 GET / (10.0.0.96) 0.47ms
+[NotebookApp | INFO] 302 GET / (10.0.0.92) 0.46ms
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.46ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.02ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://6f56aec863ba:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.86) 0.58ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 6.12ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.14ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment1/assignment1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a246d1e9-97d0-4398-b87b-694663fb3464
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a246d1e9-97d0-4398-b87b-694663fb3464) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for a246d1e9-97d0-4398-b87b-694663fb3464:b017e96211d8464589b006334d83550a
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.15ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a246d1e9-97d0-4398-b87b-694663fb3464) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for a246d1e9-97d0-4398-b87b-694663fb3464:35f0c8357ce740f691d64ab464ed2bb8
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: a246d1e9-97d0-4398-b87b-694663fb3464
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://1ab25150bfa4:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.100) 0.57ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 6.19ms referer=https://mhrfzdbw.labs.coursera.org/tree/assignments/assignment1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.17ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c8bc9597-3f9a-4cf3-94b4-ac35a243cee4
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel c8bc9597-3f9a-4cf3-94b4-ac35a243cee4) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for c8bc9597-3f9a-4cf3-94b4-ac35a243cee4:3e971b72680a4e7e8e8ea5802e5a08e4
+[NotebookApp | INFO] 302 GET / (10.0.0.44) 0.54ms
+[NotebookApp | INFO] 302 GET / (10.0.0.4) 0.71ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.24ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel c8bc9597-3f9a-4cf3-94b4-ac35a243cee4) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for c8bc9597-3f9a-4cf3-94b4-ac35a243cee4:3f8444294e75479eb7e2ec70e03f66b6
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.35ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.87ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel c8bc9597-3f9a-4cf3-94b4-ac35a243cee4) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for c8bc9597-3f9a-4cf3-94b4-ac35a243cee4:3819dd77734a4cdc960c90bc324425ad
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.13ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.59ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 19babaa9-8466-41cc-aa56-c4c2d5f1f007
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 19babaa9-8466-41cc-aa56-c4c2d5f1f007) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Numpy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Numpy_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 19babaa9-8466-41cc-aa56-c4c2d5f1f007:666875fc765048e5ae9e48804c8924f4
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.43ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.19ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: bf77f43b-aa85-4af7-a057-e3a7f317201c
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel bf77f43b-aa85-4af7-a057-e3a7f317201c) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 3 kernels
+[NotebookApp | INFO] Kernel shutdown: c8bc9597-3f9a-4cf3-94b4-ac35a243cee4
+[NotebookApp | INFO] Kernel shutdown: 19babaa9-8466-41cc-aa56-c4c2d5f1f007
+[NotebookApp | INFO] Kernel shutdown: bf77f43b-aa85-4af7-a057-e3a7f317201c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://28c928c3f6d2:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.57) 0.55ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 6.30ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/Regex_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7be8031a-9c71-422a-a6fc-ac247b2ed3f0
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7be8031a-9c71-422a-a6fc-ac247b2ed3f0) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 7be8031a-9c71-422a-a6fc-ac247b2ed3f0
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://34075b24c72c:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.36) 0.57ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 5.68ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/Regex_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 6ba07ae9-aefb-4409-9958-be8e2d5d3d64
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6ba07ae9-aefb-4409-9958-be8e2d5d3d64) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 6ba07ae9-aefb-4409-9958-be8e2d5d3d64:1b39d196418b489f8eb933f90ae9c453
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6ba07ae9-aefb-4409-9958-be8e2d5d3d64) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 6ba07ae9-aefb-4409-9958-be8e2d5d3d64:1b39d196418b489f8eb933f90ae9c453
+[NotebookApp | INFO] Starting buffering for 6ba07ae9-aefb-4409-9958-be8e2d5d3d64:1b39d196418b489f8eb933f90ae9c453
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 6ba07ae9-aefb-4409-9958-be8e2d5d3d64
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://3eb6e9665a83:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.44) 0.55ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 5.82ms referer=https://mhrfzdbw.labs.coursera.org/tree/assignments/assignment1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.18ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/Regex_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 45578d2e-1cf6-423e-b9e4-c9d06271d001
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 45578d2e-1cf6-423e-b9e4-c9d06271d001) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 45578d2e-1cf6-423e-b9e4-c9d06271d001
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://77a1068fb8a8:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.44) 0.57ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 5.61ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/Regex_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 5049c98b-1978-4bba-87ea-09e919bee4f4
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 5049c98b-1978-4bba-87ea-09e919bee4f4) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 5049c98b-1978-4bba-87ea-09e919bee4f4
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://cfe9615b61ee:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.57) 0.59ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 6.83ms referer=https://mhrfzdbw.labs.coursera.org/tree/assignments/assignment1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.31ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/Regex_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7e41a49e-a2b9-4a23-9cc0-dd1439a9b073
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7e41a49e-a2b9-4a23-9cc0-dd1439a9b073) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 7e41a49e-a2b9-4a23-9cc0-dd1439a9b073:452e5abaec2843bba08dbbae3e13e65a
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.33ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.16ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7e41a49e-a2b9-4a23-9cc0-dd1439a9b073) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 7e41a49e-a2b9-4a23-9cc0-dd1439a9b073:7b1ab7f7aeab40feab8a3079d1965b5c
+[NotebookApp | INFO] 302 GET / (10.0.0.126) 0.50ms
+[NotebookApp | INFO] 302 GET / (10.0.0.86) 0.53ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.91ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7e41a49e-a2b9-4a23-9cc0-dd1439a9b073) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel interrupted: 7e41a49e-a2b9-4a23-9cc0-dd1439a9b073
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 7e41a49e-a2b9-4a23-9cc0-dd1439a9b073:0871a053c99e4a1791fdb8ed122cef77
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 7e41a49e-a2b9-4a23-9cc0-dd1439a9b073
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://3c6e530b31a0:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.86) 0.58ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 5.85ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/Regex_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 51ade98e-ba84-4dad-8b4a-644bcad8ab14
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 51ade98e-ba84-4dad-8b4a-644bcad8ab14) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-1/Regex_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/Regex_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 51ade98e-ba84-4dad-8b4a-644bcad8ab14:154a9f3e9c1e4a4d8f9472ada625e619
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 51ade98e-ba84-4dad-8b4a-644bcad8ab14
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://07bf6e0d0036:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.57) 0.56ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 5.42ms referer=https://mhrfzdbw.labs.coursera.org/tree/assignments/assignment1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.77ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 4358ee89-592c-4228-8776-37b24739405a
+[NotebookApp | INFO] Saving file at /resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 4358ee89-592c-4228-8776-37b24739405a) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 4358ee89-592c-4228-8776-37b24739405a:4fcc5568c79d45a3b6187fc1968e8834
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 4358ee89-592c-4228-8776-37b24739405a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://da5760908bec:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.126) 0.58ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 5.77ms referer=https://mhrfzdbw.labs.coursera.org/tree/assignments/assignment1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.93ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 05223b5b-7403-4936-a02c-1d039a7db188
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 05223b5b-7403-4936-a02c-1d039a7db188) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 05223b5b-7403-4936-a02c-1d039a7db188:a461ebb011c0468a8419e9ae1cdafe9c
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.27ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.19ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1002b344-958a-48cb-9b8b-ef88bf646887
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 1002b344-958a-48cb-9b8b-ef88bf646887) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 1002b344-958a-48cb-9b8b-ef88bf646887:15299f082fc7405a9c8972b141146208
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 2.44ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingSeries_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 36e9a12f-0c27-4f1a-bfdd-5ff7906a0b4c
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingSeries_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 36e9a12f-0c27-4f1a-bfdd-5ff7906a0b4c) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingSeries_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | INFO] Starting buffering for 36e9a12f-0c27-4f1a-bfdd-5ff7906a0b4c:84ff8344508740538de3220e97ca2e3e
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.18ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.85ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 2cca9641-07a1-40be-95aa-b2855e31115f
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 2cca9641-07a1-40be-95aa-b2855e31115f) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: 05223b5b-7403-4936-a02c-1d039a7db188
+[NotebookApp | INFO] Kernel shutdown: 1002b344-958a-48cb-9b8b-ef88bf646887
+[NotebookApp | INFO] Kernel shutdown: 36e9a12f-0c27-4f1a-bfdd-5ff7906a0b4c
+[NotebookApp | INFO] Kernel shutdown: 2cca9641-07a1-40be-95aa-b2855e31115f
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://0864a2558d4f:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.86) 0.54ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 5.34ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 97ece8c6-4c65-4d27-a263-d5ea492c0b24
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 97ece8c6-4c65-4d27-a263-d5ea492c0b24) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 97ece8c6-4c65-4d27-a263-d5ea492c0b24:7a23e928c322430a81161ba0c3efca61
+[NotebookApp | INFO] 302 GET / (10.0.0.100) 0.52ms
+[NotebookApp | INFO] 302 GET / (10.0.0.57) 0.50ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 2.38ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 97ece8c6-4c65-4d27-a263-d5ea492c0b24) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 97ece8c6-4c65-4d27-a263-d5ea492c0b24:16dfcf89ed0e483d8f84105a2d484b93
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 97ece8c6-4c65-4d27-a263-d5ea492c0b24) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 97ece8c6-4c65-4d27-a263-d5ea492c0b24:16dfcf89ed0e483d8f84105a2d484b93
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 97ece8c6-4c65-4d27-a263-d5ea492c0b24:16dfcf89ed0e483d8f84105a2d484b93
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.17ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.10ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/DataFrameIndexingAndLoading_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameIndexingAndLoading_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: cd35a13e-d122-4ae7-a820-a6d655f9291b
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameIndexingAndLoading_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameIndexingAndLoading_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel cd35a13e-d122-4ae7-a820-a6d655f9291b) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for cd35a13e-d122-4ae7-a820-a6d655f9291b:fe06f57755ae4c0fac2ecf5bba14a7d5
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel cd35a13e-d122-4ae7-a820-a6d655f9291b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for cd35a13e-d122-4ae7-a820-a6d655f9291b:fe06f57755ae4c0fac2ecf5bba14a7d5
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 97ece8c6-4c65-4d27-a263-d5ea492c0b24
+[NotebookApp | INFO] Kernel shutdown: cd35a13e-d122-4ae7-a820-a6d655f9291b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://0c091f292cf8:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.4) 0.57ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 6.20ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/DataFrameIndexingAndLoading_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameIndexingAndLoading_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 483164d6-2a54-4972-b0bc-c7824ed0b890
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameIndexingAndLoading_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameIndexingAndLoading_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 483164d6-2a54-4972-b0bc-c7824ed0b890) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameIndexingAndLoading_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameIndexingAndLoading_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameIndexingAndLoading_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameIndexingAndLoading_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameIndexingAndLoading_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameIndexingAndLoading_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameIndexingAndLoading_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameIndexingAndLoading_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameIndexingAndLoading_ed.ipynb
+[NotebookApp | INFO] Starting buffering for 483164d6-2a54-4972-b0bc-c7824ed0b890:a46033acaa1044a2abc65b4d4b13bef1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.09ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.49ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 58ef603f-2381-4b22-b7f1-ce6dc69542d6
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 58ef603f-2381-4b22-b7f1-ce6dc69542d6) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 58ef603f-2381-4b22-b7f1-ce6dc69542d6:d2893f1836a142188990ec1b82bd30a7
+[NotebookApp | INFO] 302 GET / (10.0.0.36) 0.66ms
+[NotebookApp | INFO] 302 GET / (10.0.0.44) 0.43ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (186.29.52.191) 1.01ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 58ef603f-2381-4b22-b7f1-ce6dc69542d6) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 58ef603f-2381-4b22-b7f1-ce6dc69542d6:40a0279667c44b108bf50fa395221d01
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 58ef603f-2381-4b22-b7f1-ce6dc69542d6) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 58ef603f-2381-4b22-b7f1-ce6dc69542d6:40a0279667c44b108bf50fa395221d01
+[NotebookApp | INFO] Starting buffering for 58ef603f-2381-4b22-b7f1-ce6dc69542d6:40a0279667c44b108bf50fa395221d01
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 483164d6-2a54-4972-b0bc-c7824ed0b890
+[NotebookApp | INFO] Kernel shutdown: 58ef603f-2381-4b22-b7f1-ce6dc69542d6
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://4aeb5a0da6e7:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.100) 0.78ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 6.42ms referer=https://mhrfzdbw.labs.coursera.org/tree/assignments/assignment1
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://1d6048e36a5c:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.114) 0.61ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 7.25ms referer=https://mhrfzdbw.labs.coursera.org/tree/assignments/assignment1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.47ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d49b71e7-218d-4681-beee-1e4227767209
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d49b71e7-218d-4681-beee-1e4227767209) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | INFO] Starting buffering for d49b71e7-218d-4681-beee-1e4227767209:17d90e5139f84fe580b4e892dc7870dd
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.91ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.34ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/IndexingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/IndexingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d6a73458-83b0-4403-b787-d1694c13dc1c
+[NotebookApp | INFO] Saving file at /resources/week-2/IndexingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/IndexingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d6a73458-83b0-4403-b787-d1694c13dc1c) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/IndexingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/IndexingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/IndexingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/IndexingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/IndexingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/IndexingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/IndexingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/IndexingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/IndexingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/IndexingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/IndexingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/IndexingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/IndexingDataFrame_ed.ipynb
+[NotebookApp | INFO] Starting buffering for d6a73458-83b0-4403-b787-d1694c13dc1c:c673413c9d5143268b6b5233a17e0afd
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.28ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.10ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/MissingValues_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/MissingValues_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8675dcab-afad-4e74-9814-3d49e047727a
+[NotebookApp | INFO] Saving file at /resources/week-2/MissingValues_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/MissingValues_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8675dcab-afad-4e74-9814-3d49e047727a) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/MissingValues_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/MissingValues_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/MissingValues_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/MissingValues_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/MissingValues_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/MissingValues_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/MissingValues_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/MissingValues_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/MissingValues_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/MissingValues_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 8675dcab-afad-4e74-9814-3d49e047727a:c3ae5bb9b48f4e9681561aa471c458ce
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.12ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.42ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/ExampleManipulatingDataFrames.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 4e1f6b04-ea55-453c-b7cd-4da0e31dfbbe
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 4e1f6b04-ea55-453c-b7cd-4da0e31dfbbe) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/ExampleManipulatingDataFrames.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/ExampleManipulatingDataFrames.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/ExampleManipulatingDataFrames.ipynb is not trusted
+[NotebookApp | INFO] Kernel interrupted: 4e1f6b04-ea55-453c-b7cd-4da0e31dfbbe
+[NotebookApp | INFO] Saving file at /resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/ExampleManipulatingDataFrames.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/ExampleManipulatingDataFrames.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | INFO] Starting buffering for 4e1f6b04-ea55-453c-b7cd-4da0e31dfbbe:d1d466034ef14be5ae239e88f413e737
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.12ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.15ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 2c03d594-0abc-4f7b-80fb-913f2f692b5a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 2c03d594-0abc-4f7b-80fb-913f2f692b5a) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 2c03d594-0abc-4f7b-80fb-913f2f692b5a:9188645ef48a43ed8546c63e6b2a12f5
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.32ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d49b71e7-218d-4681-beee-1e4227767209) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingDataFrame_ed.ipynb
+[NotebookApp | INFO] Starting buffering for d49b71e7-218d-4681-beee-1e4227767209:9b858e9f5e1a48c7b7703bcc0efe3b2a
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.17ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f6141f61-383b-4b0d-bb5b-c621d7fb70f2
+[NotebookApp | INFO] Saving file at /resources/week-2/SeriesDataStructure_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/SeriesDataStructure_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel f6141f61-383b-4b0d-bb5b-c621d7fb70f2) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for f6141f61-383b-4b0d-bb5b-c621d7fb70f2:1b53c6f8f729434185618bd435cf00c3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.17ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingSeries_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 15d20675-11cf-4b2f-91d2-c9dda331ea95
+[NotebookApp | INFO] Saving file at /resources/week-2/QueryingSeries_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/QueryingSeries_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 15d20675-11cf-4b2f-91d2-c9dda331ea95) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 15d20675-11cf-4b2f-91d2-c9dda331ea95:490102d40c3f45cd8237d2c2e39772db
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.22ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/PandasIntroduction.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/PandasIntroduction.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 68001b04-7531-4ae4-966f-078008275355
+[NotebookApp | INFO] Saving file at /resources/week-2/PandasIntroduction.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 68001b04-7531-4ae4-966f-078008275355) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 68001b04-7531-4ae4-966f-078008275355:efc0f4039a3043f480980c83876306c3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.30ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/DataFrameManipulation_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameManipulation_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 91643f2c-2113-4409-9eac-b4752ad9d154
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameManipulation_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameManipulation_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 91643f2c-2113-4409-9eac-b4752ad9d154) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 91643f2c-2113-4409-9eac-b4752ad9d154:60e36fe64dc5484287d62f5e9346ced2
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.05ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/DataFrameIndexingAndLoading_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameIndexingAndLoading_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 65190fcc-8bb3-4239-a96c-906372f0b833
+[NotebookApp | INFO] Saving file at /resources/week-2/DataFrameIndexingAndLoading_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-2/DataFrameIndexingAndLoading_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 65190fcc-8bb3-4239-a96c-906372f0b833) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 65190fcc-8bb3-4239-a96c-906372f0b833:980e1a0794344de8a09dc1a77bad9c6b
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.11ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.09ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 4e1f6b04-ea55-453c-b7cd-4da0e31dfbbe) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-2/ExampleManipulatingDataFrames.ipynb
+[NotebookApp | INFO] 302 GET / (10.0.0.114) 0.51ms
+[NotebookApp | INFO] 302 GET / (10.0.0.122) 0.46ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.31ms referer=https://mhrfzdbw.labs.coursera.org/tree/assignments/assignment1
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 10 kernels
+[NotebookApp | INFO] Kernel shutdown: d49b71e7-218d-4681-beee-1e4227767209
+[NotebookApp | INFO] Kernel shutdown: d6a73458-83b0-4403-b787-d1694c13dc1c
+[NotebookApp | INFO] Kernel shutdown: 8675dcab-afad-4e74-9814-3d49e047727a
+[NotebookApp | INFO] Kernel shutdown: 4e1f6b04-ea55-453c-b7cd-4da0e31dfbbe
+[NotebookApp | INFO] Kernel shutdown: 2c03d594-0abc-4f7b-80fb-913f2f692b5a
+[NotebookApp | INFO] Kernel shutdown: f6141f61-383b-4b0d-bb5b-c621d7fb70f2
+[NotebookApp | INFO] Kernel shutdown: 15d20675-11cf-4b2f-91d2-c9dda331ea95
+[NotebookApp | INFO] Kernel shutdown: 68001b04-7531-4ae4-966f-078008275355
+[NotebookApp | INFO] Kernel shutdown: 91643f2c-2113-4409-9eac-b4752ad9d154
+[NotebookApp | INFO] Kernel shutdown: 65190fcc-8bb3-4239-a96c-906372f0b833
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://a8b00d823939:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://f4115a7200f7:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.114) 0.60ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 5.62ms referer=https://mhrfzdbw.labs.coursera.org/tree/assignments/assignment1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.09ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 4bd5fcba-28a9-47f7-b8bf-e2a05813f8d7
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging2.png (181.61.208.160) 3.84ms
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging3.png (181.61.208.160) 13.58ms
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging1.png (181.61.208.160) 14.31ms
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 4bd5fcba-28a9-47f7-b8bf-e2a05813f8d7) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 4bd5fcba-28a9-47f7-b8bf-e2a05813f8d7:4cfa4e02598a4e5a8cc9300d7966b047
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.04ms referer=https://mhrfzdbw.labs.coursera.org/tree/resources/week-3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.08ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging1.png (181.61.208.160) 0.79ms
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging2.png (181.61.208.160) 0.66ms
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging3.png (181.61.208.160) 0.65ms
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 4bd5fcba-28a9-47f7-b8bf-e2a05813f8d7) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 4bd5fcba-28a9-47f7-b8bf-e2a05813f8d7
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://5766f62623e4:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.114) 0.56ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 5.57ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging1.png (181.61.208.160) 3.81ms
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging2.png (181.61.208.160) 3.97ms
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging3.png (181.61.208.160) 3.77ms
+[NotebookApp | INFO] Kernel started: 9a80d289-4039-43c1-8ff9-f280d33b0b1a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 9a80d289-4039-43c1-8ff9-f280d33b0b1a) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 9a80d289-4039-43c1-8ff9-f280d33b0b1a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://0e9e6da947cf:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://b81afe6005b1:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.126) 0.56ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 5.43ms referer=https://mhrfzdbw.labs.coursera.org/tree/assignments/assignment1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.20ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging1.png (181.61.208.160) 2.61ms
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging2.png (181.61.208.160) 3.21ms
+[NotebookApp | INFO] Kernel started: dd006359-4e64-4d5c-8d13-e8084a472b7a
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging3.png (181.61.208.160) 39.15ms
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel dd006359-4e64-4d5c-8d13-e8084a472b7a) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for dd006359-4e64-4d5c-8d13-e8084a472b7a:ce483c20218845ef8d55f066883a1331
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 11.00ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 2.66ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: af696072-b802-4736-ac44-b35280d448a7
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel af696072-b802-4736-ac44-b35280d448a7) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://3846f717625e:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.62) 0.55ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 5.77ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 3b21e942-fb88-495b-aae1-cac3ecc68f6d
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3b21e942-fb88-495b-aae1-cac3ecc68f6d) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 3b21e942-fb88-495b-aae1-cac3ecc68f6d:6f41c26043ef47b28fe87115afd74965
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.10ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.08ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3b21e942-fb88-495b-aae1-cac3ecc68f6d) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PandasIdioms_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PandasIdioms_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 3b21e942-fb88-495b-aae1-cac3ecc68f6d:e9e1c5c01ab34932ac7e535488051bad
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.11ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.32ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/GroupBy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/GroupBy_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7d7050d8-a134-4f02-b821-2bea1a9378a0
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7d7050d8-a134-4f02-b821-2bea1a9378a0) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/GroupBy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/GroupBy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/GroupBy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/GroupBy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/GroupBy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/GroupBy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/GroupBy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/GroupBy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/GroupBy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/GroupBy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/GroupBy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/GroupBy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/GroupBy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/GroupBy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/GroupBy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/GroupBy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/GroupBy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/GroupBy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/GroupBy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/GroupBy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/GroupBy_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/GroupBy_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/GroupBy_ed.ipynb
+[NotebookApp | INFO] Starting buffering for 7d7050d8-a134-4f02-b821-2bea1a9378a0:18e43109a1f64883b7ee983f76994b9f
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.34ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.09ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/Scales.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/Scales.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b232bc0b-660e-4725-a6a0-198b85bafe5e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel b232bc0b-660e-4725-a6a0-198b85bafe5e) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/Scales.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/Scales.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/Scales.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/Scales.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/Scales.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/Scales.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/Scales.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/Scales.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/Scales.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/Scales.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/Scales.ipynb
+[NotebookApp | INFO] Starting buffering for b232bc0b-660e-4725-a6a0-198b85bafe5e:993b4847d602482da4ed85dee4bb7903
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.10ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.19ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/PivotTable_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PivotTable_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: bad04df4-8364-4ea9-8aa8-368850e7e06a
+[NotebookApp | INFO] Saving file at /resources/week-3/PivotTable_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PivotTable_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel bad04df4-8364-4ea9-8aa8-368850e7e06a) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/PivotTable_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PivotTable_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PivotTable_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PivotTable_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PivotTable_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PivotTable_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PivotTable_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PivotTable_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/PivotTable_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/PivotTable_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for bad04df4-8364-4ea9-8aa8-368850e7e06a:2b57a9e3fa6c444991abbe09fcae7006
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.13ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.09ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f307c484-5f0a-4c24-9a38-80c2d4f7b680
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging1.png (181.61.208.160) 2.50ms
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging3.png (181.61.208.160) 2.56ms
+[NotebookApp | INFO] 302 GET /notebooks/resources/week-3/merging2.png (181.61.208.160) 7.31ms
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel f307c484-5f0a-4c24-9a38-80c2d4f7b680) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/MergingDataFrame_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/MergingDataFrame_ed.ipynb is not trusted
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/jovyan/work/resources/week-3/MergingDataFrame_ed.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for f307c484-5f0a-4c24-9a38-80c2d4f7b680:39f9c3d5294340019a92c6776230e8e1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.39ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.05ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 64201f07-28f5-419d-a0d3-a72636bcdb7e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 64201f07-28f5-419d-a0d3-a72636bcdb7e) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 64201f07-28f5-419d-a0d3-a72636bcdb7e:1fb1e23c2f434ae79934e59634647920
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 6 kernels
+[NotebookApp | INFO] Kernel shutdown: 3b21e942-fb88-495b-aae1-cac3ecc68f6d
+[NotebookApp | INFO] Kernel shutdown: 7d7050d8-a134-4f02-b821-2bea1a9378a0
+[NotebookApp | INFO] Kernel shutdown: b232bc0b-660e-4725-a6a0-198b85bafe5e
+[NotebookApp | INFO] Kernel shutdown: bad04df4-8364-4ea9-8aa8-368850e7e06a
+[NotebookApp | INFO] Kernel shutdown: f307c484-5f0a-4c24-9a38-80c2d4f7b680
+[NotebookApp | INFO] Kernel shutdown: 64201f07-28f5-419d-a0d3-a72636bcdb7e
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://2a4f1437ac6d:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.12) 0.59ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 6.33ms referer=https://mhrfzdbw.labs.coursera.org/tree/assignments/assignment1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.57ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e66e12ed-4ca2-41a8-b3cf-80a5c5371d3e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e66e12ed-4ca2-41a8-b3cf-80a5c5371d3e) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: e66e12ed-4ca2-41a8-b3cf-80a5c5371d3e
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://af05055fe0b1:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.53) 0.55ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 5.55ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8074942f-5657-41be-8607-f2cf398a4f51
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8074942f-5657-41be-8607-f2cf398a4f51) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 8074942f-5657-41be-8607-f2cf398a4f51:13df33f1da15417184e5c0f419d426a8
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.78ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.08ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | WARNING] Notebook resources/week-4/BasicStatisticalTesting.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d2fffdb3-89e0-4790-8d87-ef2f0869d6cf
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | WARNING] Notebook resources/week-4/BasicStatisticalTesting.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d2fffdb3-89e0-4790-8d87-ef2f0869d6cf) to 5.3 (client).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 8074942f-5657-41be-8607-f2cf398a4f51
+[NotebookApp | INFO] Kernel shutdown: d2fffdb3-89e0-4790-8d87-ef2f0869d6cf
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://8d03e0602751:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.120) 0.56ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 5.91ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-4/BasicStatisticalTesting.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: dcad01f9-0f56-453b-8e1c-1df3589ba235
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel dcad01f9-0f56-453b-8e1c-1df3589ba235) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | WARNING] Notebook resources/week-4/BasicStatisticalTesting.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | WARNING] Notebook resources/week-4/BasicStatisticalTesting.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | WARNING] Notebook resources/week-4/BasicStatisticalTesting.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | WARNING] Notebook resources/week-4/BasicStatisticalTesting.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | WARNING] Notebook resources/week-4/BasicStatisticalTesting.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | WARNING] Notebook resources/week-4/BasicStatisticalTesting.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Starting buffering for dcad01f9-0f56-453b-8e1c-1df3589ba235:68bcd4d68b6641968ad22804bb6cd69b
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.17ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.38ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel dcad01f9-0f56-453b-8e1c-1df3589ba235) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Saving file at /resources/week-4/BasicStatisticalTesting.ipynb
+[NotebookApp | INFO] Starting buffering for dcad01f9-0f56-453b-8e1c-1df3589ba235:e758a4994b3040809a25cde8e1ad44e5
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.14ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.12ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/assignments/assignment4/assignment4.ipynb
+[NotebookApp | WARNING] Notebook assignments/assignment4/assignment4.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 769e7d4b-6b90-4009-8bc1-92b018d47405
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 769e7d4b-6b90-4009-8bc1-92b018d47405) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Starting buffering for 769e7d4b-6b90-4009-8bc1-92b018d47405:1a5de4ccd12d4afd842ef02ca223e48d
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.39ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.10ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] Notebook assignments/assignment3/assignment3.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 59341962-9a6c-4607-9fd9-472a053c0439
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 59341962-9a6c-4607-9fd9-472a053c0439) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 59341962-9a6c-4607-9fd9-472a053c0439:0617d2bd345c4836b451f81a0c696e56
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 3 kernels
+[NotebookApp | INFO] Kernel shutdown: dcad01f9-0f56-453b-8e1c-1df3589ba235
+[NotebookApp | INFO] Kernel shutdown: 769e7d4b-6b90-4009-8bc1-92b018d47405
+[NotebookApp | INFO] Kernel shutdown: 59341962-9a6c-4607-9fd9-472a053c0439
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://cb8d2d2705ae:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.4) 0.57ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 5.43ms referer=https://mhrfzdbw.labs.coursera.org/tree/assignments/assignment1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.61.208.160) 1.15ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b2b083ff-cc6a-4cf4-9eb4-76219f32cea7
+[NotebookApp | INFO] Saving file at /resources/week-3/DateFunctionality_ed.ipynb
+[NotebookApp | WARNING] Notebook resources/week-3/DateFunctionality_ed.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel b2b083ff-cc6a-4cf4-9eb4-76219f32cea7) to 5.3 (client).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: b2b083ff-cc6a-4cf4-9eb4-76219f32cea7
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://0a7f18773074:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.117) 0.56ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.53.12.46) 5.61ms referer=https://mhrfzdbw.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.53.12.46) 2.02ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment1/assignment1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e9af70dd-abfb-4421-b322-a8f2830071e4
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e9af70dd-abfb-4421-b322-a8f2830071e4) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for e9af70dd-abfb-4421-b322-a8f2830071e4:f4aa6537f1a146df8299900272a8e8db
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (181.53.12.46) 1.06ms referer=https://mhrfzdbw.labs.coursera.org/notebooks/resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 70f65d1a-419f-4d13-9422-5c182fc6ae75
+[NotebookApp | INFO] Saving file at /resources/week-1/IntroductionToCourse.ipynb
+[NotebookApp | WARNING] Notebook resources/week-1/IntroductionToCourse.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 70f65d1a-419f-4d13-9422-5c182fc6ae75) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 70f65d1a-419f-4d13-9422-5c182fc6ae75:f84d54bbd2474415b2f6048a43368d56
